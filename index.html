@@ -25,7 +25,7 @@ header.band{background:var(--deep);color:#fff;padding-block:clamp(22px,3vw,40px)
 header .sub{font-size:17px;margin:0 0 18px;opacity:.92;max-width:60em}
 h1{font-size:clamp(30px,4vw,44px);line-height:1.1;letter-spacing:-.02em;font-weight:900;margin:0 0 12px;text-wrap:balance;max-width:22em}
 header .lede{font-size:17px;max-width:62em;margin:0;opacity:.95}
-.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);margin:18px 0 8px;border:1px solid var(--line)}
+.kpis{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:1px;background:var(--line);margin:18px 0 8px;border:1px solid var(--line)}
 .kpi{background:var(--bg);padding:12px 14px}
 .kpi b{color:var(--deep)}
 :root[data-theme=dark] .kpi b{color:#7fd0e3}
@@ -48,6 +48,8 @@ header .lede{font-size:17px;max-width:62em;margin:0;opacity:.95}
 .find b{display:block;font-size:18px;margin-bottom:4px}
 .act td:first-child{white-space:nowrap;font-weight:700}
 @media(max-width:900px){.qs,.find{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:1100px){.kpis{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:560px){.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}}
 nav.toc{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
 nav.toc .wrap{display:flex;gap:4px;overflow-x:auto;padding:6px max(5vw,16px)}
 nav.toc a{flex:none;padding:10px 12px;text-decoration:none;font-size:15px;border-radius:6px;white-space:nowrap}
@@ -173,10 +175,10 @@ details{margin-top:12px}summary{cursor:pointer;min-height:44px;display:flex;alig
 <div><b>外部風險會讓情況多糟？</b>如果戰爭風險海域的港口不能用，送醫時間會變多長？哪些港口要先做好防疫？</div>
 </div>
 
-<h2 style="margin-top:28px">和我的工作有什麼關係</h2>
+<h2 style="margin-top:28px">設計的緣起</h2>
 <div class="prose">
-<p>我在航運公司負責職業安全衛生。岸上同仁的健康管理有完整的健檢與追蹤，但船員分散在世界各地，我們平常看到的只是一份份船長寄回來的醫療報告，很難看出整體的風險在哪裡。</p>
-<p>如果能把這些報告整理成資料，再畫在地圖上，就能回答很實際的問題：哪條航線的醫藥箱要加強？心血管風險高的同仁適不適合派到長航程的船？哪些航次出發前要先打疫苗？這也正好呼應 ISO 45001 要求的「依風險規劃、用資料檢視成效」。</p>
+<p>在航運產業中，岸上同仁的健康管理有完整的健檢與追蹤，但船員分散在世界各地，我們平常看到的可能只是一份份船長寄回來的醫療報告，很難看出整體的風險在哪裡。</p>
+<p>如果能把這些報告整理成資料，再畫在地圖上，就能回答很實際的問題：哪條航線的醫藥箱要加強？心血管風險高的同仁適不適合派到長航程的船？哪些航次出發前要先打疫苗？透過資料視覺化，應該可以更高效的依風險規劃、用資料檢視成效。</p>
 </div>
 
 <h3 style="margin-top:28px">參考資料</h3>
