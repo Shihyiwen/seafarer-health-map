@@ -1,0 +1,51 @@
+﻿name,lon,lat,tier,listed,malaria,yf,dengue
+高雄 Kaohsiung,120.27,22.61,A,False,,False,True
+台中 Taichung,120.51,24.29,A,False,,False,False
+青島 Qingdao,120.32,36.07,A,False,,False,False
+釜山 Busan,129.04,35.1,A,False,,False,False
+新加坡 Singapore,103.82,1.26,A,False,,False,True
+馬尼拉 Manila,120.96,14.59,A,False,,False,True
+紐卡索 Newcastle,151.78,-32.92,A,False,,False,False
+布里斯本 Brisbane,153.17,-27.38,A,False,,False,False
+德班 Durban,31.03,-29.87,A,False,,False,False
+開普敦 Cape Town,18.43,-33.91,A,False,,False,False
+伊莉莎白港 Gqeberha,25.62,-33.96,A,False,,False,False
+可倫坡 Colombo,79.85,6.95,A,False,,False,True
+孟買 Mumbai,72.85,18.95,A,False,有,False,True
+溫哥華 Vancouver,-123.11,49.29,A,False,,False,False
+橫濱 Yokohama,139.64,35.45,A,False,,False,False
+香港 Hong Kong,114.17,22.3,A,False,,False,False
+上海 Shanghai,121.49,31.23,A,False,,False,False
+里約 Rio de Janeiro,-43.18,-22.89,A,False,,True,True
+黑德蘭港 Port Hedland,118.58,-20.31,B,False,,False,False
+理查茲灣 Richards Bay,32.07,-28.8,B,False,低/局部,False,False
+維多利亞 Vitória,-40.29,-20.32,B,False,,True,True
+望加錫 Makassar,119.41,-5.13,B,False,低/局部,False,True
+達爾文 Darwin,130.84,-12.46,B,False,,False,False
+路易港 Port Louis,57.5,-20.16,B,False,,False,False
+關島 Guam,144.66,13.44,B,False,,False,False
+納卯 Davao,125.63,7.07,B,False,低/局部,False,True
+胡志明市 Ho Chi Minh,106.72,10.77,B,False,,False,True
+布萊爾港 Port Blair,92.73,11.62,B,False,有,False,True
+巴里巴板 Balikpapan,116.83,-1.27,B,False,有,False,True
+科迪亞克 Kodiak,-152.4,57.79,B,False,,False,False
+喀拉蚩 Karachi,66.98,24.85,B,False,有,False,True
+沃爾維斯灣 Walvis Bay,14.5,-22.95,B,False,,False,False
+馬布多 Maputo,32.57,-25.97,B,False,有,False,True
+達卡 Dakar,-17.43,14.69,B,False,有,True,False
+柯那克里 Conakry,-13.71,9.51,B,False,有,True,False
+阿必尚 Abidjan,-4.01,5.3,B,False,有,True,True
+拉哥斯 Lagos,3.4,6.45,B,True,有,True,False
+吉布地 Djibouti,43.14,11.6,B,True,有,False,True
+達曼 Dammam,50.1,26.5,A,True,,False,False
+馬斯喀特 Muscat,58.59,23.62,A,True,,False,False
+富查伊拉 Fujairah,56.36,25.12,B,True,,False,False
+塞拉萊 Salalah,54.0,16.95,B,True,,False,False
+莫爾斯比港 Port Moresby,147.15,-9.47,C,False,有,False,True
+荷尼阿拉 Honiara,159.95,-9.43,C,False,有,False,True
+荷蘭港 Dutch Harbor,-166.54,53.89,C,False,,False,False
+馬林達 Samarinda,117.15,-0.5,C,False,有,False,True
+馬任 Banjarmasin,114.59,-3.32,C,False,有,False,True
+聖海倫那 St Helena,-5.72,-15.93,C,False,,False,False
+坎薩爾 Kamsar,-14.6,10.4,C,False,有,True,False
+拉斯海爾 Ras Al-Khair,49.22,27.48,C,True,,False,False
